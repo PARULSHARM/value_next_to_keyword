@@ -1,2 +1,2 @@
-# value_next_to_keyword
-This repository contains API to find values next to BMI, Weight and Blood pressure save them as a file
+# number_next_to_keyword
+This repository contains python API to extract values next to BMI, Weight, Blood Pressure.
