@@ -4,7 +4,7 @@ from extract import *
 app = Flask('app')
 
 
-# End point for signing up , it accepts 5 images and extracts features while signing up itself.
+
 @app.route('/find/', methods=['POST'])
 def SignUp():
     file = request.files["file.pdf"]
